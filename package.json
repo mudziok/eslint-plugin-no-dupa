@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-no-dupa",
+  "version": "0.1.0",
+  "description": "Eslint plugin restricting the usage of word 'dupa'",
+  "author": "mudziok",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "jest": "^29.1.1"
+  }
+}
